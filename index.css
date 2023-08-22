@@ -46,3 +46,10 @@ button {
     width: 150px;
     border: 2px solid #bb9457;
 }
+
+#credits{
+    font-style: italic;
+    font-size: 10px;
+    margin-top: 200px;
+    color:#bb9457;
+}
