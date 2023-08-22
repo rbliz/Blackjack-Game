@@ -1,0 +1,48 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-image: url("https://images.unsplash.com/photo-1655159428752-c700435e9983?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YmxhY2tqYWNrfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60");
+    background-size: cover;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 0px;
+    margin-bottom: 10px;
+    color: #bb9457;
+    font-size: 100px;
+}
+
+#message-el {
+    font-style: italic;
+    font-size: 25px;
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+#cards-el{
+    margin-top: 60px;
+    font-size: 30px;
+}
+#sum-el{
+    font-size: 30px;
+    
+}
+button {
+    color: black;
+    width: 150px;
+    background: linear-gradient(black, #bb9457) ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+    
+}
+#img-croupier{
+    border-radius: 5%;
+    width: 150px;
+    border: 2px solid #bb9457;
+}
