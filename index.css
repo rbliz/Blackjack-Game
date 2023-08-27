@@ -31,7 +31,7 @@ h1 {
 button {
     color: black;
     width: 150px;
-    background: linear-gradient(black, #bb9457) ;
+    background: #bb9457;
     padding-top: 5px;
     padding-bottom: 5px;
     font-weight: bold;
